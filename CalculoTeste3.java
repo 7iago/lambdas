@@ -1,7 +1,6 @@
 package lambdas;
 
 import java.util.function.BinaryOperator;
-import java.util.function.DoubleBinaryOperator;
 
 public class CalculoTeste3 {
 
